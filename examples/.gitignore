@@ -1,0 +1,6 @@
+/build.xml
+/build/*
+/manifest.mf
+/nbproject/
+/src/cat/ogasoft/*
+!/src/cat/ogasoft/examples
